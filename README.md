@@ -21,7 +21,6 @@ Ensure you have Python 3.x installed along with the following dependencies:
 - Matplotlib
 - scikit-learn
 
-Install dependencies using pip:
-
-```bash
-pip install tensorflow numpy matplotlib scikit-learn
+## Dataset
+link:https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
+The dataset used for this project is available on Kaggle at Brain MRI Images for Brain Tumor Detection. Download the dataset and organize it into two folders: 'no' for images without tumors and 'yes' for images with tumors."
